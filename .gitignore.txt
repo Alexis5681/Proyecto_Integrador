@@ -1,5 +1,4 @@
 nbproject/
 build/
 dist/
-*.log
 *.nbm
