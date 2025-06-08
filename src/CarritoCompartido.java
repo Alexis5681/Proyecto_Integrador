@@ -10,5 +10,6 @@ public class CarritoCompartido {
             total += item.getTotal();
         }
         return total;
+        
     }
 }
