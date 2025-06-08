@@ -14,9 +14,9 @@ import javax.swing.JOptionPane;
  */
 public class AgregarPro extends javax.swing.JFrame {
 
-  
 conexion db = new conexion();
 ProductosDao productosDao = new ProductosDao(db);
+
 
            
     public AgregarPro() {
